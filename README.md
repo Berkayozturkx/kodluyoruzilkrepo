@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 ![GitHub](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 # Installation
 ---
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. (https://github.com/YazilimciAmaAcemiOlan/kodluyoruzilkrepo)
 
 ```
 git clone https://github.com/YazilimciAmaAcemiOlan/kodluyoruzilkrepo.git
